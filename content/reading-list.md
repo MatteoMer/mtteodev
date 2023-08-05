@@ -5,7 +5,7 @@ date: 2023-08-05T22:15:38+02:00
 
 This page is mostly for me to keep track of what I want to read, but it might give you ideas :)
 
-If you wish to look at some of my recommendations, you can look [here]("/recommendations")
+If you wish to look at some of my recommendations, you can look [here](/recommendations/)
 
 # Cryptography
  - [x] Abstract Algebra - Judson
