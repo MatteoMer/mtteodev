@@ -18,6 +18,8 @@ It's just some books/articles/videos that are on top of my mind today, not an ex
 
 [A 6 minute introduction to homomorphic encryption](https://www.zama.ai/introduction-to-homomorphic-encryption)
 
+[The Cairo Whitepaper](https://www.cairo-lang.org/cairo-whitepaper/)
+
 # Maths
 
 [3blue1brown](https://www.youtube.com/@3blue1brown), especially his Linear Algebra series
