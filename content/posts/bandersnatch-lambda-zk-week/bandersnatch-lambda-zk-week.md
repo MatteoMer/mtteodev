@@ -10,7 +10,7 @@ It was very fun and I learned so much during this event, so let me introduce you
 
 # What is Bandersnatch?
 
-Bandersnatch is an [elliptic curve](https://en.wikipedia.org/wiki/Elliptic_curve) built over the BLS12-381 scalar field. If you don't know what elliptic curves, I can only advice [this article!](https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/)
+Bandersnatch is an [elliptic curve](https://en.wikipedia.org/wiki/Elliptic_curve) built over the BLS12-381 scalar field. If you don't know what elliptic curves are, I can only advice [this article!](https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/)
 
 So Bandersnatch is an EC, and has been created to use the [GLV endomorphism](https://www.iacr.org/archive/eurocrypt2009/54790519/54790519.pdf), enabling faster scalar multiplication compared to other EC such as Jubjub.
 
