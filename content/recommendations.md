@@ -26,6 +26,8 @@ It's just some books/articles/videos that are on top of my mind today, not an ex
 
 [Wrath of Maths](https://www.youtube.com/@WrathofMath)
 
+[Mu Prime Math](https://www.youtube.com/@MuPrimeMath)
+
 # Fiction
 
 The Gambler - Dostoevsky
