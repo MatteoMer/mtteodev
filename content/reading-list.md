@@ -27,3 +27,6 @@ If you wish to look at some of my recommendations, you can look [here](/recommen
 - [ ] The Dharma Bums - Jack Kerouac
 - [ ] Death on the Nile - Agatha Christie
 - [ ] Tinker, Tailor, Soldier, Spy - John le Carré
+
+# Other
+- [ ] [From Nand to Tetris](https://www.nand2tetris.org/)
