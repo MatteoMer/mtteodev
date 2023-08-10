@@ -11,3 +11,4 @@ This page is a list a resources I gathered during my exploration and implementat
 * [zkStudyClub: HyperPlonk](https://www.youtube.com/watch?v=J51Ajp6zzkI)
 * [ZK8: Hyperplonk](https://www.youtube.com/watch?v=2JDBD5oMS0w)
 * [Lambdaworks Plonk prover](https://github.com/lambdaclass/lambdaworks_plonk_prover)
+* [HyperPlonk medium article](https://medium.com/@espressosys/hyperplonk-a-zk-proof-system-for-zkevms-d45fd077bfba)
