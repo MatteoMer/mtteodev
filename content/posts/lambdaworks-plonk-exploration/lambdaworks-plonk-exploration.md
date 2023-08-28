@@ -13,3 +13,8 @@ But I got worried of not understanding enough on my first read so instead
 I started by looking at the series of videos by David Wong, [introducing PLONK](https://www.youtube.com/watch?v=RUZcam_jrz0) until the 11th part. Up next is the copy constrainsts part of PLONK!
 
 I took tons of notes, nothing super new on my side (I've seen this before in [Why and How zk-SNARK Works](https://arxiv.org/abs/1906.07221)) but this was a very good way to get all of this in my head again since this has been a while!
+
+# Day 2
+Today I'll start by looking at the [blog post by Vitalik about PLONK](https://vitalik.ca/general/2019/09/22/plonk.html)
+
+I couldn't finish it today, copy constraints are still obscure to me: I have some understanding, but really need to dig more to understand more! Will do tomorrow!
