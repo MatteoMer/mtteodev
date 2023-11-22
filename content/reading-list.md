@@ -12,9 +12,10 @@ If you wish to look at some of my recommendations, you can look [here](/recommen
  - [ ] Pairing for beginners
  - [ ] Graduate Texts in Mathematics, Algebra - Serge Lang
  - [ ] Proofs, Arguments and Zero-Knowledge - Justin Thaler
+ - [x] An introduction to Mathematical Cryptography - Jeffrey Hoffstein
  - [x] Real world cryptography
  - [ ] The arithmetic of elliptic curves - Silverman
- - [ ] Moonmaths manual
+ - [x] Moonmaths manual
  - [ ] Introduction to Commutative Algebra: MF. Atiyah, IG MacDonald
  - [ ] A course in number theory
  - [ ] Book of proofs
