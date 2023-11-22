@@ -20,6 +20,8 @@ It's just some books/articles/videos that are on top of my mind today, not an ex
 
 [The Cairo Whitepaper](https://www.cairo-lang.org/cairo-whitepaper/)
 
+An introduction to mathematical cryptography - Jeffrey Hoffstein
+
 # Maths
 
 [3blue1brown](https://www.youtube.com/@3blue1brown), especially his Linear Algebra series
