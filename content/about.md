@@ -16,3 +16,4 @@ You can find my resume [here](/resume)
 
 You can contact me on [Twitter](https://twitter.com/Matteo_Mer), [Warpcast](https://warpcast.com/mtteo) or on XMTP (if you can guess my ens)
 
+[My research notes (maths, crypto and other topics)](https://publish.obsidian.md/matteo)
