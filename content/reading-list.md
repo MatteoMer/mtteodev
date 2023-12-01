@@ -24,6 +24,9 @@ If you wish to look at some of my recommendations, you can look [here](/recommen
 - [ ] Lectures on Aesthetics - Hegel
 - [ ] The Plague - Albert Camus
 
+# Science
+- [ ] A brief history of time - Stephen Hawking
+
 # Fiction
 - [ ] The Dharma Bums - Jack Kerouac
 - [ ] Death on the Nile - Agatha Christie
