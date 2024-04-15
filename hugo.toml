@@ -1,6 +1,6 @@
 baseURL = 'https://mtteo.dev/'
 title = "mtteo.eth"
-theme= 'hugo-coder'
+theme= "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
 
@@ -8,6 +8,17 @@ paginate = 20
 
 [markup.highlight]
 style = "github-dark"
+
+[markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)']]
+    [markup.goldmark.parser.attribute]
+        block = true # default is false
+
 
 [params]
   author = "mtteo.eth"
