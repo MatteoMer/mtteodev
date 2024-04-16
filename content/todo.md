@@ -8,7 +8,7 @@ date: 2024-04-15:18:23+02:00
 - [x] Done
 
 # Get better at cryptography
-- [ ] _**Read Proofs, Arguments and Zero Knowledge**_
+- [ ] _**Read [Proofs, Arguments and Zero Knowledge](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)**_
 - [ ] Read [Pairings for beginner](https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff394720493bd28278889c6/1609798774687/PairingsForBeginners.pdf)
 - [ ] Read [Binius paper](https://eprint.iacr.org/2023/1784.pdf)
 - [ ] Read [Zeromorph paper](https://eprint.iacr.org/2023/917.pdf)
@@ -22,7 +22,7 @@ date: 2024-04-15:18:23+02:00
 - [ ] Read [Book of proof](https://www.people.vcu.edu/~rhammack/BookOfProof/)
 
 # Become a better programmer with functional programming :D
-- [ ] Read [Real world OCaml](https://dev.realworldocaml.org/guided-tour.html)
+- [ ] Read [CS3110 OCaml Book](https://cs3110.github.io/textbook/chapters/preface/about.html)
 - [ ] Implement Poseidon Hash in OCaml
 
 # Other
