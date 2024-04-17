@@ -10,11 +10,6 @@ So I thought that an article introducing this very useful protocol, alongside a 
 
 In this article, I assume you know some Rust, finite field arithmetics and polynomials! 
 
-1. purpose of the protocol
-2. some definitions
-3. intuition behind it
-4. let's build it
-
 # Purpose of the protocol
 The purpose of the sum-check protocol can be defined in a single sentence: a prover $\mathcal{P}$ wants to convince to a verifier $\mathcal{V}$ that he knows the sum of all the evaluations of a polynomial over all Boolean inputs.
 
