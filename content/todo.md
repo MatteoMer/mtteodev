@@ -25,6 +25,7 @@ date: 2024-04-15:18:23+02:00
 # Become a better programmer with functional programming :D
 - [ ] _**Read [CS3110 OCaml Book](https://cs3110.github.io/textbook/chapters/preface/about.html)**_
 - [ ] Implement Poseidon Hash in OCaml
+- [ ] Play [TIS-100](https://www.zachtronics.com/tis-100)
 
 # Other
 - [ ] Study [From Nand to Tetris](https://www.nand2tetris.org/)
