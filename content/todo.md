@@ -13,7 +13,13 @@ date: 2024-04-15:18:23+02:00
 - [ ] Read [Binius paper](https://eprint.iacr.org/2023/1784.pdf)
 - [ ] Read [Zeromorph paper](https://eprint.iacr.org/2023/917.pdf)
 - [ ] Read [Extractable Witness Encryption for KZG Commitments and Efficient Laconic OT](http://ia.cr/2024/264)
+- [ ] _**Read [Spartan: Efficient and general-purpose zkSNARKs without trusted setup](https://eprint.iacr.org/2019/550.pdf)**_
 
+# Write cool articles
+- [ ] _**Write an article about sumcheck**_
+- [ ] Write an article about GKR
+- [ ] Write an article about Spartan
+- [ ] _**Write an article about how to learn ZK maths**_
 
 # Learn things about interesting maths subjects
 - [ ] _**Watch [Milewski's lecture on Category Theory](https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)**_
