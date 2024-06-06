@@ -16,7 +16,7 @@ date: 2024-04-15:18:23+02:00
 - [ ] _**Read [Spartan: Efficient and general-purpose zkSNARKs without trusted setup](https://eprint.iacr.org/2019/550.pdf)**_
 
 # Write cool articles
-- [x] _**Write an article about sumcheck**_
+- [x] Write an article about sumcheck
 - [ ] Write an article about GKR
 - [ ] Write an article about Spartan
 - [ ] _**Write an article about how to learn ZK maths**_
@@ -29,8 +29,8 @@ date: 2024-04-15:18:23+02:00
 - [ ] Read [Book of proof](https://www.people.vcu.edu/~rhammack/BookOfProof/)
 
 # Become a better programmer with functional programming :D
-- [x] _**Read [CS3110 OCaml Book](https://cs3110.github.io/textbook/chapters/preface/about.html)**_
+- [x] Read [CS3110 OCaml Book](https://cs3110.github.io/textbook/chapters/preface/about.html)
 
 # Other
 - [ ] Study [From Nand to Tetris](https://www.nand2tetris.org/)
-- [x] _**Play [TIS-100](https://www.zachtronics.com/tis-100)**_
+- [x] Play [TIS-100](https://www.zachtronics.com/tis-100)
