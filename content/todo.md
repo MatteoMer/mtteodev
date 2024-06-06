@@ -13,7 +13,7 @@ date: 2024-04-15:18:23+02:00
 - [ ] Read [Binius paper](https://eprint.iacr.org/2023/1784.pdf)
 - [ ] Read [Zeromorph paper](https://eprint.iacr.org/2023/917.pdf)
 - [ ] Read [Extractable Witness Encryption for KZG Commitments and Efficient Laconic OT](http://ia.cr/2024/264)
-- [ ] _**Read [Spartan: Efficient and general-purpose zkSNARKs without trusted setup](https://eprint.iacr.org/2019/550.pdf)**_
+- [x] Read [Spartan: Efficient and general-purpose zkSNARKs without trusted setup](https://eprint.iacr.org/2019/550.pdf)
 
 # Write cool articles
 - [x] Write an article about sumcheck
