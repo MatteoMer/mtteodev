@@ -26,7 +26,7 @@ date: 2024-04-15:18:23+02:00
 - [ ] Watch [Type Theory for the Working Rustacean](https://youtu.be/BdXWlQsd7RI?si=h5jHBv2tRekx33kp)
 - [ ] Find resources and learn more in-depth linear algebra
 - [ ] Read [A course in number theory](https://global.oup.com/academic/product/a-course-in-number-theory-9780198523765)
-- [ ] Read [Book of proof](https://www.people.vcu.edu/~rhammack/BookOfProof/)
+- [ ] Read [Book of proof](https://richardhammack.github.io/BookOfProof/)
 - [ ] Read [Everything You Always Wanted To Know About Mathematics](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf)
 
 # Become a better programmer with functional programming :D
