@@ -28,6 +28,7 @@ date: 2024-04-15:18:23+02:00
 - [ ] Read [A course in number theory](https://global.oup.com/academic/product/a-course-in-number-theory-9780198523765)
 - [ ] Read [Book of proof](https://richardhammack.github.io/BookOfProof/)
 - [ ] Read [Everything You Always Wanted To Know About Mathematics](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf)
+- [ ] Read [Graph Theory and Additive Combinatorics](https://yufeizhao.com/gtacbook/)
 
 # Become a better programmer with functional programming :D
 - [x] Read [CS3110 OCaml Book](https://cs3110.github.io/textbook/chapters/preface/about.html)
