@@ -5,7 +5,7 @@ date: 2023-08-05T21:44:28+02:00
 
 I'm a programmer that like to build cool stuff.
 
-I love ethereum, cryptography, rust, FHE, photography, solving rubiks cube and [Club-Mate](https://en.wikipedia.org/wiki/Club-Mate).
+I do research around programmable cryptography, especially interested in real-life crypto.
 
 Some facts:
 - I did [42 Paris](https://42.fr) in 2017, where I learned how to code.
