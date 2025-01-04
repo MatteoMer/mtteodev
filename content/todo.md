@@ -20,6 +20,7 @@ date: 2024-04-15:18:23+02:00
 - [ ] Write an article about GKR
 - [ ] Write an article about Spartan
 - [ ] _**Write an article about how to learn ZK maths**_
+- [ ] Write about proofs as objects
 
 # Learn things about interesting maths subjects
 - [ ] _**Watch [Milewski's lecture on Category Theory](https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)**_
