@@ -60,10 +60,6 @@ style = "github-dark"
   weight = 5
   url = "about/"
 [[menu.main]]
-  name = "Reading List"
-  weight = 1
-  url = "reading-list/"
-[[menu.main]]
   name = "TODOs"
   weight = 2
   url = "todo/"
